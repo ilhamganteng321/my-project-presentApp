@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820463755639",
+    "project_id": "presentapp-1ae69",
+    "storage_bucket": "presentapp-1ae69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820463755639:android:5039f31d6ce80a66274172",
+        "android_client_info": {
+          "package_name": "com.hamTech.present_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBnAkt879Lphq0-SiyJYhc4x7EyD1-cIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
